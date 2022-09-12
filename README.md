@@ -1,5 +1,5 @@
 # Quiz Educacional
-Quiz Desenvolvido em Construct 2 que utiliza HTML + CSS + Javascript.
+Quiz Desenvolvido em Construct 2 que utiliza HTML + Javascript.
 
 ## Demonstração (Preview)
  https://jp-neto.github.io/Quiz_construct2/
