@@ -16,7 +16,7 @@ Neste projeto foram utilizados alguns conceitos e ferramentas como:
 
 ## Descrição do desenvolvimento
 Foi desenvolvido uma estrutura base no Construct2 e no final Exportada para HTML.
-Foi utilizado audio e pontuação para tornar o jogo mais dinamico e interativo
+Foi utilizado audio e pontuação para tornar o jogo mais dinamico e interativo,
 E também foi utilizado o Javascript para o auxilio da manipulação de classe e funções randomicas.
 
 
