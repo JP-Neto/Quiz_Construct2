@@ -2,7 +2,7 @@
 Quiz Desenvolvido em Construct 2 que utiliza HTML + CSS + Javascript.
 
 ## Demonstração (Preview)
-https://jp-neto.github.io/Quiz_Construct2/
+ https://jp-neto.github.io/Quiz_construct2/
 
 ## Sobre o Projeto
 Esse foi um Projeto desenvolvido para um material de apoio a um livro Educacional sobre a Zika e chikungunya,
