@@ -5,7 +5,7 @@ Quiz Desenvolvido em Construct 2 que utiliza HTML + Javascript.
  https://jp-neto.github.io/Quiz_construct2/
 
 ## Sobre o Projeto
-Esse foi um Projeto desenvolvido para um material de apoio a um livro Educacional sobre a Zika e chikungunya,
+Esse foi um Projeto desenvolvido para um material de apoio a um livro Educacional sobre a Dengue, Zika e chikungunya,
 da Editora Grafset.
 
 Neste projeto foram utilizados alguns conceitos e ferramentas como:
