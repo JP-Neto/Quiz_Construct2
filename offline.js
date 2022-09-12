@@ -1,10 +1,11 @@
 ﻿{
-	"version": 1663001976,
+	"version": 1663005944,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-3.4.1.min.js",
 		"offlineClient.js",
+		"c2webappstart.js",
 		"images/bg-sheet0.png",
 		"images/btn_comecar-sheet0.png",
 		"images/logoquizinicial-sheet0.png",
